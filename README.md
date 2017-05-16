@@ -1,6 +1,6 @@
 # Data
 ### Underwater Image Dehazing with a Light Field Camera
-[Download](http://www.umich.edu/~droplf/Dehazing/Dehazing.zip)
+[Download](https://drive.google.com/file/d/0BzY2TG1VpXRoQUdyaTdpR0lDYkE/view?usp=sharing)
 
 ### Monocular Underwater Image Datasets
 ##### Marine Hydrodynamics Laboratory, University of Michigan
