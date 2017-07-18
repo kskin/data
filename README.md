@@ -2,8 +2,6 @@
 ### Underwater Image Dehazing with a Light Field Camera
 [Download](https://drive.google.com/file/d/0BzY2TG1VpXRoQUdyaTdpR0lDYkE/view?usp=sharing)
 
-# Citations
-
 If you find this data useful for your research, please cite our paper in your publications.
 
 ```
@@ -24,8 +22,6 @@ If you find this data useful for your research, please cite our paper in your pu
 
 ##### Port Royal, Jamaica
 [Download](http://www.umich.edu/~dropda/Jamaica.tar.gz)
-
-# Citations
 
 If you find this data useful for your research, please cite our paper in your publications.
 
