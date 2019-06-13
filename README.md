@@ -36,3 +36,21 @@ If you find this data useful for your research, please cite our paper in your pu
 	Title = {WaterGAN: Unsupervised Generative Network to Enable Real-time Color Correction of Monocular Underwater Images},
 	Year = {2017}}
 ```
+
+### Stereo Underwater Image Datasets
+##### DROP Lab BlueROV2 - Hawaii Institute of Marine Biology (HIMB)
+[Download](http://www.umich.edu/~dropopen2/DROPUWStereo_HIMB_Data.tar.gz)
+
+If you find this data useful for your research, please cite our paper in your publications.
+
+```
+@inproceedings{Skinner:2019aa,
+	Author = {Skinner, Katherine A and Zhang, Junming and Elizabeth Olson and M. Johnson-Roberson},
+	Booktitle = {{IEEE} International Conference on Robotics and Automation},
+	Date-Added = {2019-01-26 10:00:49 -0500},
+	Date-Modified = {2019-01-26 10:01:54 -0500},
+	Keywords = {conf},
+	Note = {to appear},
+	Title = {UWStereoNet: Unsupervised Learning for Depth Estimation and Color Correction of Underwater Stereo Imagery},
+	Year = {2019}}
+```
