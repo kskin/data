@@ -41,7 +41,7 @@ If you find this data useful for your research, please cite our paper in your pu
 ##### DROP Lab BlueROV2 - Hawaii Institute of Marine Biology (HIMB)
 [Download HIMB #1 - Coral Site](http://www.umich.edu/~dropopen2/DROPUWStereo_HIMB1_docksite.tar.gz)
 
-[Download HIMB #2 - Rocky Site](http://www.umich.edu/~dropopen2/DROPUWStereo_HIMB1_docksite.tar.gz)
+[Download HIMB #2 - Rocky Site](http://www.umich.edu/~dropopen2/DROPUWStereo_HIMB2_labsite.tar.gz)
 
 [Download HIMB Ground Truth](http://www.umich.edu/~dropopen2/DROPUWStereo_HIMB_ground.tar.gz)
 
